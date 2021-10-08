@@ -80,6 +80,7 @@ void printArray(int A[], int size)
 int main()
 {
 
+
 	int arr[] = { 12, 11, 13, 5, 6, 7,1,4 };
 
 	auto arr_size = sizeof(arr) / sizeof(arr[0]);
