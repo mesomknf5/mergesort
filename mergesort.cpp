@@ -79,7 +79,7 @@ void printArray(int A[], int size)
 // Driver code
 int main()
 {
-	int arr[] = { 12, 11, 13, 5, 6, 7,1,4,25,61 };
+	int arr[] = { 12, 11, 13, 5, 6, 7,1,4 };
 	auto arr_size = sizeof(arr) / sizeof(arr[0]);
 
 	cout << "Given array is \n";
